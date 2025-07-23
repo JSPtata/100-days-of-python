@@ -12,21 +12,21 @@ python main.py
 
 
 ------Features-----
-Random number generation
-Difficulty selection: easy (10 attempts) or hard (5 attempts)
-Input validation and feedback for each guess
-Loop control with function-based logic
+Random number generation,
+Difficulty selection: easy (10 attempts) or hard (5 attempts),
+Input validation and feedback for each guess,
+Loop control with function-based logic,
 
 ----Concepts Practiced-----
-Functions
-Conditional statements
-Loops
-random module
+Functions,
+Conditional statements,
+Loops,
+random module,
 User input handling
 
 ----What I Learned----
-Writing reusable functions
-Structuring game logic
+Writing reusable functions,
+Structuring game logic,
 Controlling program flow using loops and conditionals
 
 
