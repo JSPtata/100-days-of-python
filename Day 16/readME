@@ -1,0 +1,67 @@
+# Day 16 - Coffee Machine OOP ☕
+
+This project is from **Day 16** of Angela Yu's [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/).
+
+---
+
+## 📌 Project Overview
+On this day, I learned how to apply **Object-Oriented Programming (OOP)** concepts in Python by building a **Coffee Machine** program.  
+
+- The coffee machine has limited resources (water, milk, coffee).  
+- The user can choose a drink (espresso, latte, cappuccino).  
+- The machine checks if resources are sufficient.  
+- The user inserts coins, and the machine processes the transaction.  
+- Resources update after each purchase.  
+
+---
+
+## 🛠️ Concepts Practiced
+- Object-Oriented Programming (OOP)  
+- Creating and using classes  
+- Methods, attributes, and constructors (`__init__`)  
+- Interacting between multiple classes  
+- Using procedural logic with OOP design  
+
+---
+
+## 📂 Project Files
+
+Day 16/
+│── main.py # Runs the coffee machine program
+│── coffee_maker.py # Handles machine resources
+│── menu.py # Defines menu items
+│── money_machine.py # Handles payments
+
+
+---
+
+## ▶️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/100-days-of-python.git
+
+Navigate to the Day 16 folder:
+
+cd "100-days-of-python/Day 16/Coffee Machine OOP"
+
+
+Run the program:
+
+python3 main.py
+
+🖼️ Example Gameplay
+What would you like? (espresso/latte/cappuccino): latte
+Please insert coins.
+How many quarters?: 10
+How many dimes?: 0
+How many nickles?: 0
+How many pennies?: 0
+Here is your latte ☕ Enjoy!
+
+📚 Learnings
+
+✔️ How to structure a project with multiple classes
+✔️ How to apply OOP for real-world modeling
+✔️ How to separate concerns (menu, resources, money) into different files
+
+✨ This is part of my journey through Angela Yu’s 100 Days of Code: Python Bootcamp ✨
