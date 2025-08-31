@@ -1,0 +1,64 @@
+# Day 17 - Quiz Game 🎮
+
+This project is from **Day 17** of Angela Yu's [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/).
+
+---
+
+## 📌 Project Overview
+On this day, I learned the basics of **Object-Oriented Programming (OOP)** in Python and applied it by building a **True/False Quiz Game**.
+
+- The quiz presents a series of True/False questions.
+- The user enters an answer (`True`/`False`).
+- The program checks the answer and keeps track of the **score**.
+- The game continues until all questions are answered.
+
+---
+
+## 🛠️ Concepts Practiced
+- Classes & Objects
+- Attributes and Methods
+- Constructors (`__init__`)
+- While loops
+- Data management (separating question data from logic)
+
+---
+
+## 📂 Project Files
+Day 17/
+│── main.py # Runs the game
+│── question_model.py # Defines the Question class
+│── data.py # Holds the question bank
+│── quiz_brain.py # QuizBrain class with the main logic
+
+---
+
+## ▶️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/100-days-of-python.git
+
+Navigate to the Day 17 folder:
+cd "100-days-of-python/Day 17/quiz-game-start"
+
+Run the program:
+python3 main.py
+
+Example Gameplay
+Q1: A slug's blood is green. (True/False): True
+You got it right!
+Your current score is: 1/1
+
+Q2: The loudest animal is the African Elephant. (True/False): False
+You got it right!
+Your current score is: 2/2
+
+
+
+📚Learnings
+
+✔️ How to create classes and objects in Python
+✔️ How to separate responsibilities across multiple files
+✔️ How to build a small but structured project with OOP
+
+✨ This is part of my journey through Angela Yu’s 100 Days of Code: Python Bootcamp ✨
+
